@@ -4,7 +4,13 @@ The **Optional Chaining** proposal is awesome and will definitely improve the JS
 
 Here's a simple tutorial to learn a bit by helping an adventurer to not break our code ⚔️
 
-### The tutorial
+### First of all, an screenshot with an easy example to start rolling 🎢
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ccastillo06/optional-chaining-example/master/assets/example.png" alt="Example screenshot" />
+</p>
+
+### The tutorial 📒
 
 We'll create an **Adventurer Class** with some incomplete methods that access properties that may not be defined.
 
@@ -121,7 +127,7 @@ We even added a fallback value of 0 because having no pet means we can't even do
 console.log(adventurer.attackWithPet()); // Returns 0 instead of breaking!
 ```
 
-We finally fixed our adventurer! 🎉 
+We finally fixed our adventurer! 🎉
 
 #### We could also check one more little this before finishing the tutorial...
 
@@ -158,5 +164,5 @@ PS: We should definitely teach the dev who made the Adventurer class our new ski
 
 ### About the project
 
-This was made with `Parcel` by adding the `@babel/plugin-proposal-optional-chaining` plugin to `.babelrc`. 
+This was made with `Parcel` by adding the `@babel/plugin-proposal-optional-chaining` plugin to `.babelrc`.
 Just run `npm start` and open the console in your browser to see the logs!
