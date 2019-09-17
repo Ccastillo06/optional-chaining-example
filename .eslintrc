@@ -1,0 +1,18 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["babel"],
+  "parserOptions": {
+    "ecmaVersion": 9,
+    "sourceType": "module"
+  },
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "max-len": 0,
+    "object-curly-newline": 0
+  },
+  "extends": ["plugin:prettier/recommended", "airbnb-base"]
+}
