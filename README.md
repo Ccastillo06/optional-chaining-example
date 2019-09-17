@@ -2,7 +2,7 @@
 
 The **Optional Chaining** proposal is awesome and will definitely improve the JS ecosystem with the features it includes! [More at tc39](https://github.com/tc39/proposal-optional-chaining).
 
-Here's a simple tutorial to learn a bit by helping an adventurer to not break our code ⚔️
+Here's a simple tutorial to learn about it by helping an adventurer to not break our code ⚔️
 
 ### First of all, an screenshot with an easy example to start rolling 🎢
 
