@@ -22,5 +22,8 @@
     "eslint-plugin-prettier": "^3.1.0",
     "parcel-bundler": "^1.12.3",
     "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "lodash.get": "^4.4.2"
   }
 }
